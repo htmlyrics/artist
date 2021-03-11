@@ -14,6 +14,11 @@ Hilang
   </a>
 </div>
 <div class="htl">
+  <a href="/lirih-silentplease">
+Lirih
+  </a>
+</div>
+<div class="htl">
   <a href="/percaya-featuzhel-silentplease">
 Percaya (feat. Uzhel)
   </a>
