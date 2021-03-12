@@ -9,7 +9,7 @@ Akhir Cerita
   </a>
 </div>
 <div class="htl">
-  <a href="/galau-newverison-silentplease">
+  <a href="/galau-newversion-silentplease">
 Galau (New Version)
   </a>
 </div>
