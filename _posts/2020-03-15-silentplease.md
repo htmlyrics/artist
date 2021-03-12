@@ -9,6 +9,11 @@ Akhir Cerita
   </a>
 </div>
 <div class="htl">
+  <a href="/galau-newverison-silentplease">
+Galau (New Version)
+  </a>
+</div>
+<div class="htl">
   <a href="/hilang-silentplease">
 Hilang
   </a>
