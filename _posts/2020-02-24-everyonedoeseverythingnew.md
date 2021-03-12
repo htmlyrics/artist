@@ -8,3 +8,8 @@ title: Everyone Does Everything New
 Akhir Cerita Ini
   </a>
 </div>
+<div class="htl">
+  <a href="/takkanpernahlelah-everyonedoeseverythingnew">
+Takkan Pernah Lelah
+  </a>
+</div>
