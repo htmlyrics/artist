@@ -24,6 +24,11 @@ Lirih
   </a>
 </div>
 <div class="htl">
+  <a href="/menghapusbayangmu-featbaysha-silentplease">
+Menghapus Bayangmu (feat. Baysha)
+  </a>
+</div>
+<div class="htl">
   <a href="/percaya-featuzhel-silentplease">
 Percaya (feat. Uzhel)
   </a>
