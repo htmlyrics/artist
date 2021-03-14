@@ -8,3 +8,8 @@ title: Psydo Demokrasi
 Bintang Keadilan
   </a>
 </div>
+<div class="htl">
+  <a href="/korporasiberasraskin-psydodemokrasi">
+Korporasi Beras Raskin
+  </a>
+</div>
