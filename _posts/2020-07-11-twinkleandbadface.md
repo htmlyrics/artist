@@ -8,3 +8,8 @@ title: Twinkle And Bad Face
 Alunan Punk Merdu
   </a>
 </div>
+<div class="htl">
+  <a href="/kumuakdenganomongkosongmu-twinkleandbadface">
+Kumuak Dengan Omong Kosongmu
+  </a>
+</div>
