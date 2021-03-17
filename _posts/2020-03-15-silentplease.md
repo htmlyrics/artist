@@ -29,6 +29,11 @@ Menghapus Bayangmu (feat. Baysha)
   </a>
 </div>
 <div class="htl">
+  <a href="/merangkaiharapan-silentplease">
+Merangkai Harapan
+  </a>
+</div>
+<div class="htl">
   <a href="/percaya-featuzhel-silentplease">
 Percaya (feat. Uzhel)
   </a>
