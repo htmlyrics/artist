@@ -14,6 +14,11 @@ Galau (New Version)
   </a>
 </div>
 <div class="htl">
+  <a href="/hidupmu-silentplease">
+Hidupmu
+  </a>
+</div>
+<div class="htl">
   <a href="/hilang-silentplease">
 Hilang
   </a>
