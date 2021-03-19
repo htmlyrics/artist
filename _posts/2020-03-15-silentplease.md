@@ -59,6 +59,11 @@ Senyuman Hina (feat. Echa)
   </a>
 </div>
 <div class="htl">
+  <a href="/tentangkita-silentplease">
+Tentang Kita
+  </a>
+</div>
+<div class="htl">
   <a href="/untukmu-feataldina-silentplease">
 Untukmu (feat. Aldina)
   </a>
