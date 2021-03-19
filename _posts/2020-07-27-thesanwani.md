@@ -8,3 +8,8 @@ title: The Sanwani
 Cerita Indah (Cinta Sesaat)
   </a>
 </div>
+<div class="htl">
+  <a href="/kenanganyangterlupakan-thesanwani">
+Kenangan Yang Terlupakan
+  </a>
+</div>
