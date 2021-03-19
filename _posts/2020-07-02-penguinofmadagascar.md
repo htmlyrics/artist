@@ -8,3 +8,8 @@ title: Penguin of Madagascar
 Harapan Telah Menjadi Kenangan
   </a>
 </div>
+<div class="htl">
+  <a href="/mimpikita-penguinofmadagascar">
+Mimpi Kita
+  </a>
+</div>
