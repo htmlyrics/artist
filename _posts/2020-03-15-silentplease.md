@@ -54,11 +54,6 @@ Rasa Ini (feat. Aldina)
   </a>
 </div>
 <div class="htl">
-  <a href="/senyumanhina-featecha-silentplease">
-Senyuman Hina (feat. Echa)
-  </a>
-</div>
-<div class="htl">
   <a href="/sesal-silentplease">
 Sesal
   </a>
