@@ -9,11 +9,6 @@ Kesatria Tak Bernyawa
   </a>
 </div>
 <div class="htl">
-  <a href="/malamseribubulan-ratukidul">
-Malam Seribu Bulan
-  </a>
-</div>
-<div class="htl">
   <a href="/melatidarisurga-ratukidul">
 Melati Dari Surga
   </a>
