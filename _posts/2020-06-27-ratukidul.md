@@ -8,8 +8,3 @@ title: Ratu Kidul
 Kesatria Tak Bernyawa
   </a>
 </div>
-<div class="htl">
-  <a href="/ratapanbunda-ratukidul">
-Ratapan Bunda
-  </a>
-</div>
